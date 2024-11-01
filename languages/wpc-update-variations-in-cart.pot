@@ -1,0 +1,56 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Update Variations In Cart for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Update Variations In Cart for WooCommerce 1.1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-update-variations-in-cart\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-25T02:12:09+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-update-variations-in-cart\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Update Variations In Cart for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Update Variations In Cart gives your customer power to change variation in cart."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-update-variations-in-cart.php:86
+msgid "Community support"
+msgstr ""
+
+#: wpc-update-variations-in-cart.php:103
+#: wpc-update-variations-in-cart.php:145
+msgid "Update"
+msgstr ""
+
+#: wpc-update-variations-in-cart.php:104
+msgid "Cart updated."
+msgstr ""
+
+#: wpc-update-variations-in-cart.php:125
+msgid "Edit"
+msgstr ""
+
+#: wpc-update-variations-in-cart.php:146
+msgid "Cancel"
+msgstr ""
